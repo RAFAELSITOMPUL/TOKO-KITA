@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "message": "Data retrieved successfully",
+  "data": [
+    {
+      "kdbarang": "BR001",
+      "nmbarang": "Laptop Gaming ASUS ROG",
+      "harga": 19500000,
+      "stok": 10,
+      "deskripsi": "Laptop gaming berperforma tinggi dengan processor Intel Core i9, RAM 32GB dan VGA NVIDIA GeForce RTX 3080",
+      "foto": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400"
+    },
+    {
+      "kdbarang": "BR002",
+      "nmbarang": "Monitor Curved Samsung",
+      "harga": 3500000,
+      "stok": 15,
+      "deskripsi": "Monitor gaming curved 27 inch dengan refresh rate 144Hz dan resolusi 2K",
+      "foto": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400"
+    },
+    {
+      "kdbarang": "BR003",
+      "nmbarang": "Keyboard Mekanik HyperX",
+      "harga": 1200000,
+      "stok": 25,
+      "deskripsi": "Keyboard gaming mekanik dengan switch Cherry MX Red dan RGB lighting",
+      "foto": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400"
+    },
+    {
+      "kdbarang": "BR004",
+      "nmbarang": "SSD NVME Samsung 1TB",
+      "harga": 2100000,
+      "stok": 20,
+      "deskripsi": "SSD NVMe dengan kecepatan baca hingga 7000MB/s dan kapasitas 1TB",
+      "foto": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400"
+    },
+    {
+      "kdbarang": "BR005",
+      "nmbarang": "Mouse Gaming Logitech G502",
+      "harga": 850000,
+      "stok": 30,
+      "deskripsi": "Mouse gaming dengan sensor HERO 25K dan 11 tombol yang dapat diprogram",
+      "foto": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400"
+    }
+  ]
+}

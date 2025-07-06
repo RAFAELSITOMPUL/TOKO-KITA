@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toko Kita</string>
+    <string name="search_hint">Cari Berdasarkan Nama Barang...</string>
+    <string name="detail_barang">Detail Barang</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="stok">Stok: %d</string>
+    <string name="harga">Rp %s</string>
+</resources>
